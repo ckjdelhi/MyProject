@@ -14,6 +14,10 @@ class FirstTest {
 	void test2() {
 		assertTrue(true);
 	}
+	@Test
+	void test3() {
+		assertFalse(true);
+	}
 
 	
 	
