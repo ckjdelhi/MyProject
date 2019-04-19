@@ -13,6 +13,7 @@ class FirstTest {
 	@Test
 	void test2() {
 		assertTrue(true);
+		System.out.println("welcome");
 	}
 	@Test
 	void test3() {
